@@ -4,11 +4,11 @@ Attacks for AES-128 with a single secret S-Box up to 4 rounds. The attacks are s
 
 For a complete discussion about these attacks using the Subspace Trail, we refer to the following paper:
 
-Title: "Subspace Trail Cryptanalysis and its Applications to AES" Authors: Lorenzo Grassi, Christian Rechberger and Sondre Ronjom Available at: http://eprint.iacr.org/
+Title: "Subspace Trail Cryptanalysis and its Applications to AES" Authors: Lorenzo Grassi, Christian Rechberger and Sondre Ronjom Available at: http://eprint.iacr.org/http://eprint.iacr.org/2016/592
 
 Programs:
 
-0) AES.c
+0) AES.c - AES.common.c
 
 Attacks:
 
